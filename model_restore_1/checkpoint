@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\think\\CarND-Traffic-Sign-Classifier-Project-master\\lenet"
+all_model_checkpoint_paths: "C:\\Users\\think\\CarND-Traffic-Sign-Classifier-Project-master\\lenet"
